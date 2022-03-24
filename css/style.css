@@ -1,0 +1,37 @@
+h1{
+    color: rgb(231, 25, 52);
+}
+#heading{
+font-size: 40px;
+}
+/* pastbox */
+#pastsection{
+    display: flex;
+    background-color: rgb(30, 90, 143);
+    margin:5px;
+    /* padding:30px 20px; */
+    padding:2%;
+    margin-bottom:30px;
+    background-image: image-set(images);
+}
+.sectioncardone{
+    width: 50%;
+     
+}
+.sectioncardone img{
+    
+    width: 90%;
+    padding-left:40px;
+    margin-top:10%;
+} 
+
+#pastbutton{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(77, 15, 4),tomato);
+    border:3px solid;
+    border-radius: 10px;
+    border-color: rgb(233, 37, 37);
+    color: whitesmoke;
+    margin-top:10px;
+    padding: 5px;
+}
