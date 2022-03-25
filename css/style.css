@@ -1,3 +1,10 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Rubik', sans-serif;
+}
+
 h1{
     color: rgb(231, 25, 52);
 }
@@ -12,7 +19,9 @@ font-size: 40px;
     /* padding:30px 20px; */
     padding:2%;
     margin-bottom:30px;
-    background-image: image-set(images);
+}
+#pastsection{
+    background-image: url(images/pastsection);
 }
 .sectioncardone{
     width: 50%;
@@ -35,3 +44,40 @@ font-size: 40px;
     margin-top:10px;
     padding: 5px;
 }
+
+/* lorem dowon */
+#lorem3{
+    display: flex;
+    
+
+}
+.loro{
+   margin: 50px; 
+ /* border: 1px solid; */
+ border-left: 5px solid tomato;
+ border-radius: 5px;
+ box-shadow: 10px 10px 8px #888888;
+}
+#foter{
+   background-color: black;
+  color: aliceblue;
+  padding-right:100%;
+  padding-left: 15px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
